@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<img align="right" src="https://img.freepik.com/vector-premium/desarrollador-software-vector-ilustracion-tecnologia-comunicacion-seguridad-cibernetica_1249867-5464.jpg?semt=ais_hybrid&w=740&q=80" width="30%">
 
 <h1>
   Hola, soy Yazury Quezada
