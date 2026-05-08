@@ -59,7 +59,7 @@ Soy desarrolladora de software con una gran pasión por crear sitios web visualm
 
 ## 🚀 Proyectos Destacados
 
-### 📁 Sistema de Gestión Documental
+### 📁 Sistema de Gestión de Archivos
 
 Sistema web desarrollado para la administración y organización de documentos empresariales.
 
