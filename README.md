@@ -57,3 +57,57 @@ Soy desarrolladora de software con una gran pasión por crear sitios web visualm
 
 ---
 
+## 🚀 Proyectos Destacados
+
+### 📁 Sistema de Gestión Documental
+
+Sistema web desarrollado para la administración y organización de documentos empresariales.
+
+✨ Funcionalidades:
+- Gestión de carpetas y archivos PDF
+- Compartir documentos mediante correo electrónico
+- Sistema de roles (Administrador y Empleado)
+- Visualización segura de documentos clasificados
+- Arquitectura organizada por módulos y capas
+- Diseño totalmente responsive
+
+🛠️ Tecnologías:
+PHP • MySQL • JavaScript • Bootstrap • HTML • CSS
+
+---
+
+### 🏫 Sistema Escolar Digital
+
+Plataforma web desarrollada para la gestión académica y administrativa escolar.
+
+✨ Funcionalidades:
+- Gestión de estudiantes, cursos y secciones
+- Registro de notas y asistencia
+- Generación de boletines parciales y finales
+- Actas de calificaciones
+- Exportación de datos a Excel y PDF
+- Gestión automática de horarios
+- Sistema de autenticación y control de acceso por roles
+- Panel administrativo y rol de profesor
+- Arquitectura modular y responsive
+
+🛠️ Tecnologías:
+PHP • MySQL • JavaScript • HTML • CSS • Bootstrap
+
+🚧 Proyecto actualmente en desarrollo
+
+---
+
+## 🌍 Implementación en Entornos Reales
+
+Actualmente, ambos sistemas están siendo utilizados en entornos reales:
+
+🏢 El Sistema de Gestión Documental está implementado en una empresa privada para la administración y organización de documentos internos.
+
+🎓 El Sistema Escolar Digital está siendo utilizado en un liceo técnico en artes para la gestión académica y administrativa.
+
+✨ Ambos proyectos continúan en constante mejora y desarrollo.
+
+---
+
+
