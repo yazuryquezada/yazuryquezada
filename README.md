@@ -11,7 +11,7 @@ Soy desarrolladora de software con una gran pasión por crear sitios web visualm
 
 👨‍💻 Actualmente estoy trabajando con tecnologías de desarrollo web. <br>
 📚 Actualmente estoy avanzando en el aprendizaje de nuevas tecnologías. <br>
-🎯 Metas futuras: aprender más tecnologías web y crear sitios web increíbles.
+🎯 Metas futuras: seguir aprendiendo nuevas tecnologías y desarrollar soluciones web innovadoras.
 
 ---
 
