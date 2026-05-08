@@ -74,6 +74,9 @@ Sistema web desarrollado para la administración y organización de documentos e
 🛠️ Tecnologías:
 PHP • MySQL • JavaScript • Bootstrap • HTML • CSS
 
+🔗 **Repositorio del proyecto:**  
+[Ver Sistema Gestor de Archivos](https://github.com/yazuryquezada/sistema-gestor-de-archivos)
+
 ---
 
 ### 🏫 Sistema Escolar Digital
@@ -95,6 +98,9 @@ Plataforma web desarrollada para la gestión académica y administrativa escolar
 PHP • MySQL • JavaScript • HTML • CSS • Bootstrap
 
 🚧 Proyecto actualmente en desarrollo
+
+🔗 **Repositorio del proyecto:**  
+[Ver Sistema Escolar Digital](https://github.com/yazuryquezada/sistema-escolar-digital)
 
 ---
 
