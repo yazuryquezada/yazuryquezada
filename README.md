@@ -6,10 +6,8 @@
 </h1>
 
 <p>
-Soy desarrolladora de software con una gran pasión por crear sitios web visualmente atractivos y fáciles de usar.
+💡 Especializada en desarrollo de sistemas web con PHP, MySQL y JavaScript enfocados en gestión empresarial y educativa.
 </p>
-
-💡 Me especializo en desarrollo de sistemas web con PHP, MySQL y JavaScript, enfocados en gestión empresarial y educativa.
 
 💻 Desarrolladora web enfocada en sistemas empresariales y educativos.  
 📚 Actualmente sigo mejorando mis habilidades en desarrollo backend y frontend.  
