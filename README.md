@@ -9,16 +9,27 @@
 Soy desarrolladora de software con una gran pasión por crear sitios web visualmente atractivos y fáciles de usar.
 </p>
 
-👨‍💻 Actualmente estoy trabajando con tecnologías de desarrollo web. <br>
-📚 Actualmente estoy avanzando en el aprendizaje de nuevas tecnologías. <br>
-🎯 Metas futuras: seguir aprendiendo nuevas tecnologías y desarrollar soluciones web innovadoras.
+💡 Me especializo en desarrollo de sistemas web con PHP, MySQL y JavaScript, enfocados en gestión empresarial y educativa.
+
+💻 Desarrolladora web enfocada en sistemas empresariales y educativos.  
+📚 Actualmente sigo mejorando mis habilidades en desarrollo backend y frontend.  
+🎯 Mi objetivo es crear soluciones web funcionales y escalables.
+
 
 ---
+ <br>
+ 
+## 🎯 Objetivo Profesional
+
+Busco seguir creciendo como desarrolladora web, participando en proyectos reales que aporten valor a empresas y mejoren procesos digitales.
+
+---
+ <br>
 
 ## 📫 Enlaces de redes sociales
 
 <p align="left">
-  <a href="mailto:yazuryquezada7@gmail.com">
+  <a href="mailto:sistemayq@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
@@ -30,12 +41,13 @@ Soy desarrolladora de software con una gran pasión por crear sitios web visualm
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/yazuryquezada/">
+  <a href="https://www.instagram.com/syqweb/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
+ <br>
 
 ## 🛠️ Tecnologías con las que trabajo
 
@@ -47,6 +59,7 @@ Soy desarrolladora de software con una gran pasión por crear sitios web visualm
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
+ <br>
 
 ## 🔧 Herramientas
 
@@ -56,12 +69,13 @@ Soy desarrolladora de software con una gran pasión por crear sitios web visualm
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
+ <br>
 
 ## 🚀 Proyectos Destacados
 
 ### 📁 Sistema de Gestión de Archivos
 
-Sistema web desarrollado para la administración y organización de documentos empresariales.
+Sistema web diseñado para optimizar la gestión de documentos empresariales, mejorando el control, acceso y organización de archivos digitales.
 
 ✨ Funcionalidades:
 - Gestión de carpetas y archivos PDF
@@ -78,6 +92,7 @@ PHP • MySQL • JavaScript • Bootstrap • HTML • CSS
 [Ver Sistema Gestor de Archivos](https://github.com/yazuryquezada/sistema-gestor-de-archivos)
 
 ---
+ <br>
 
 ### 🏫 Sistema Escolar Digital
 
