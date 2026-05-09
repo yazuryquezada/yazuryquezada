@@ -19,7 +19,7 @@
  
 ## 🎯 Objetivo Profesional
 
-Busco seguir creciendo como desarrolladora web, participando en proyectos reales que aporten valor a empresas y mejoren procesos digitales.
+Seguir creciendo como desarrolladora web, participando en proyectos reales que aporten valor y optimicen procesos empresariales y educativos.
 
 ---
  <br>
@@ -89,6 +89,8 @@ PHP • MySQL • JavaScript • Bootstrap • HTML • CSS
 🔗 **Repositorio del proyecto:**  
 [Ver Sistema Gestor de Archivos](https://github.com/yazuryquezada/sistema-gestor-de-archivos)
 
+📌 Proyecto desarrollado como solución real para optimizar procesos administrativos.
+
 ---
  <br>
 
@@ -114,6 +116,8 @@ PHP • MySQL • JavaScript • HTML • CSS • Bootstrap
 
 🔗 **Repositorio del proyecto:**  
 [Ver Sistema Escolar Digital](https://github.com/yazuryquezada/sistema-escolar-digital)
+
+📌 Proyecto desarrollado como solución real para optimizar procesos administrativos.
 
 ---
 
